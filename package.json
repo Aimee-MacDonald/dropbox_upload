@@ -1,0 +1,26 @@
+{
+  "name": "dropbox_upload",
+  "version": "1.0.0",
+  "description": "Upload files to dropbox",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aimee-MacDonald/dropbox_upload.git"
+  },
+  "keywords": [
+    "dropbox"
+  ],
+  "author": "Aimee MacDonald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aimee-MacDonald/dropbox_upload/issues"
+  },
+  "homepage": "https://github.com/Aimee-MacDonald/dropbox_upload#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "request": "^2.87.0"
+  }
+}
